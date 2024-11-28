@@ -216,5 +216,5 @@ AssetOrigin:
   productId: 73611
   packageName: Low Poly Soldiers Demo
   packageVersion: 1.0
-  assetPath: Assets/LowPolySoldiers_demo/animation/demo_combat_shoot.FBX
+  assetPath: Assets/Soldier/animation/demo_combat_shoot.FBX
   uploadId: 143992
